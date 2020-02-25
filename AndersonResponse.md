@@ -1,5 +1,8 @@
 # Do you believe theory is dead? Do you think we have entered a paradigm shifting revolution of how we describe, analyze, and understand the world?
 
+## Abdi Hassan
+## 02/25/2020
+
 I do actually believe that while theory is not "dead" it has now been rendered obsolete by the more efficient manner of what I call
 connecting the dots, data mining. There are correlations and patterns humand would not and oftentimes could not notice in data that
 is very telling of some relationships we may not yet have discovered or could soon hope to discover through the traditional scientific method.
