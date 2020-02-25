@@ -1,8 +1,8 @@
 # Assignment 1: Annotated Bibliography
-Abdi Hassan
-Frazier
-Data Science and Human Development
-02/23/2020
+# Abdi Hassan
+# Frazier
+# Data Science and Human Development
+# 02/23/2020
 
 # Problem Statement
   I am a Somali American immigrant myself and have always been interested in the geopolitical landscape of Somalia and how that has played
