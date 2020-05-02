@@ -21,7 +21,9 @@ Access to Education
 [1] Social Council, E. A. (2018, July 26). Special edition: progress towards the 
      Sustainable Development Goals [PDF]. Retrieved from https://undocs.org/E/ 
      2019/68
+     
 [2] Moyi, P. (2012). Who goes to school? School enrollment patterns in Somalia [PDF 
      e-book]. Retrieved from https://www.sciencedirect.com/science/article/pii/
      S0738059310001343
+     
 [3] Linard, C., Alegana, V.A., Noor, A.M. et al. A high resolution spatial population database of Somalia for disease risk mapping. Int J Health Geogr 9, 45 (2010). https://doi.org/10.1186/1476-072X-9-45
